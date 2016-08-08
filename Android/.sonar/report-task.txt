@@ -1,0 +1,5 @@
+projectKey=java
+serverUrl=http://43.82.168.100:9000
+dashboardUrl=http://43.82.168.100:9000/dashboard/index/java
+ceTaskId=AVZJnSMvqG0Mrd8Zta45
+ceTaskUrl=http://43.82.168.100:9000/api/ce/task?id=AVZJnSMvqG0Mrd8Zta45
